@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Python Developer](https://uploads.toptal.io/blog/image/379/toptal-blog-image-1397179019848.png)
